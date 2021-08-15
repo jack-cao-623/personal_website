@@ -48,7 +48,7 @@ superuser: true
 title: Jack Cao
 ---
 
-I'm currently a quantitative user experience researcher at Facebook. I support the Navigation team's mission to connect users to valuable outcomes by leveraging surveys, log data, click tests, and text mining of app reviews. R & SQL are my primary programming languages.
+I'm currently a quantitative user experience researcher at Facebook. I support the Navigation team's mission to connect users to valuable outcomes by communicating insights from surveys, log data, click tests, and text mining of app reviews. R & SQL are my primary programming languages.
 
 My background is in psychology and education. I received my PhD in 2019 from Harvard where I used statistical modeling and experiments to understand our first impressions of other people. Throughout grad school, I taught statistics and R programming. Previously, I was a high school physics teacher through Teach For America and a psychology instructor at Weill Cornell Medical College in Qatar.
 
